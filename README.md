@@ -1,4 +1,4 @@
-### Hi, I’m YTzin👋
+### Hi, I’m Yago Thayson👋
 
 <div align="center">
   <a href="https://github.com/YTzin">
