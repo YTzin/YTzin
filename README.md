@@ -1,4 +1,3 @@
-```markdown
 ### Hi, I'm Yago Thayson 👋
 
 Computer Science student passionate about software development and technology.
@@ -37,4 +36,3 @@ Currently focused on Java, Spring Boot, Vue.js, software architecture, and full-
 ---
 
 ![snake gif](https://github.com/YTzin/YTzin/blob/output/github-contribution-grid-snake.svg)
-```
